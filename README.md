@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer || Backend Specialist from Bangladesh</h3>
 
 <!-- Profile image -->
-<p align="center">
+<p align="center"> 
   <img src="YOUR_IMAGE_URL_HERE" alt="Shanto's profile picture" width="200" />
 </p>
 
