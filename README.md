@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shanto Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer || Backend Specialist from Bangladesh</h3>
 
-<!-- Profile image -->
+<!-- Profile image 
 <p align="center"> 
   <img src="YOUR_IMAGE_URL_HERE" alt="Shanto's profile picture" width="200" />
 </p>
+-->
 
 - 🔭 I’m currently working on **makereal.io**
 - 🌱 I’m currently learning **Python**
